@@ -1,0 +1,25 @@
+/**
+ * Theme Name: 		   Onnat
+ * Text Domain: 	   onnat
+ * Version:            1.0.3
+ * Tested up to:       6.7.2
+ * Requires at least:  5.6
+ * Requires PHP:       7.4
+ * Author:             KinForce
+ * Author URI:         http://themeforest.net/user/kinforce
+ * Theme URI:          https://onnat.flywheelsites.com/
+ * Description:        Onnat - A premium WordPress theme crafted by KinForce, And built with Elementor page builder.
+ * Tags:               blog, custom-menu, e-commerce, featured-images, footer-widgets, full-width-template, left-sidebar, post-formats, right-sidebar, sticky-post, theme-options, threaded-comments, translation-ready
+ *
+ * License: Themeforest Standard Licence
+ * License URI: https://themeforest.net/licenses
+ *
+ * Copyright (C) 2024 KinForce. All rights reserved.
+ */
+
+@font-face {
+    font-family: "kinfw-icon";
+    src: url("assets/css/kinfw-icon.eot?4458dfd8e710bbfc62ef6d9de409e8e5#iefix") format("embedded-opentype"),
+    url("assets/css/kinfw-icon.woff2?4458dfd8e710bbfc62ef6d9de409e8e5") format("woff2"),
+    url("assets/css/kinfw-icon.woff?4458dfd8e710bbfc62ef6d9de409e8e5") format("woff");
+}

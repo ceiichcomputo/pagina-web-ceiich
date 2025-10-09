@@ -1,0 +1,95 @@
+<svg id="Standard-Header_copy_4" data-name="Standard-Header copy 4" xmlns="http://www.w3.org/2000/svg" width="700" height="100" viewBox="0 0 700 100">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #ededed;
+      }
+
+      .cls-1, .cls-2, .cls-5 {
+        stroke: #000;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 1px;
+      }
+
+      .cls-2 {
+        opacity: 0.05;
+      }
+
+      .cls-3 {
+        opacity: 0.1;
+      }
+
+      .cls-4 {
+        font-size: 12px;
+        text-anchor: middle;
+        font-family: "Open Sans";
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+
+      .cls-5 {
+        fill-opacity: 0;
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="700" height="100"/>
+  <g id="Top_Bar" data-name="Top Bar">
+    <rect id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-2" width="699" height="30"/>
+    <rect id="Rectangle_2_copy_6" data-name="Rectangle 2 copy 6" class="cls-3" x="52" y="13" width="50" height="4"/>
+    <rect id="Rectangle_2_copy_7" data-name="Rectangle 2 copy 7" class="cls-3" x="122" y="13" width="50" height="4"/>
+    <g id="Social" class="cls-3">
+      <circle cx="576" cy="15" r="5.75"/>
+      <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" cx="598" cy="15" r="5.75"/>
+      <circle id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" cx="620" cy="15" r="5.75"/>
+      <circle id="Ellipse_1_copy_3" data-name="Ellipse 1 copy 3" cx="642" cy="15" r="5.75"/>
+    </g>
+  </g>
+  <text id="Logo" class="cls-4" x="69" y="69"><tspan x="69">Logo</tspan></text>
+  <g id="Menu">
+    <rect id="Rectangle_2_copy" data-name="Rectangle 2 copy" x="388" y="63" width="30" height="4"/>
+    <rect id="Rectangle_2_copy_2" data-name="Rectangle 2 copy 2" x="438" y="63" width="30" height="4"/>
+    <rect id="Rectangle_2_copy_3" data-name="Rectangle 2 copy 3" x="488" y="63" width="30" height="4"/>
+    <rect id="Rectangle_2_copy_4" data-name="Rectangle 2 copy 4" x="538" y="63" width="30" height="4"/>
+    <rect id="Rectangle_2_copy_5" data-name="Rectangle 2 copy 5" x="588" y="63" width="30" height="4"/>
+    <g id="Search_copy" data-name="Search copy">
+      <circle class="cls-5" cx="642" cy="63" r="4"/>
+      <path class="cls-6" d="M644.18,66.506l1.29-1.528,4.35,3.515-1.291,1.528Z"/>
+    </g>
+  </g>
+</svg>

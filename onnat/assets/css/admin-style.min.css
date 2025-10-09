@@ -1,0 +1,176 @@
+/* Admin Dashboard Customization */
+.toplevel_page_onnat, .onnat_page_plugins-kinfw-theme, .onnat_page_system-info-kinfw-theme, .onnat_page_support-system-kinfw-theme {
+    background: #ffffff;
+}
+.kinfw-admin-header {
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.6;
+    padding: 50px 40px 40px;
+}
+
+#kinfw-admin-logo {
+    display: inline-block;
+}
+#kinfw-admin-logo img {
+    max-width: 50px;
+    border-radius: 50%;
+}
+#kinfw-admin-theme-name {
+    font-size: 24px;
+    font-weight: bold;
+    display: inline-block;
+    position: relative;
+    top: -18px;
+    margin-left: 10px;
+}
+#kinfw-admin-theme-name .kinfw-admin-theme-version {
+    position: relative;
+    top: -10px;
+    left: 3px;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.theme.activate-it .theme-actions {
+    opacity: 1;
+}
+.theme.activate-it img{
+    opacity: .4;
+}
+#kinfw-admin-theme-info {
+    max-width: 580px;
+    margin: 20px auto 0;
+}
+.kinfw-admin-wrap .nav-tab-wrapper {
+    text-align: center;
+    border-bottom-color: rgba(0, 0, 0, 0.1);
+}
+.kinfw-admin-wrap .nav-tab-wrapper .nav-tab {
+    float: none;
+    display: inline-block;
+    font-size: 16px;
+    background: none;
+    border: 0;
+    padding: 10px 20px 15px;
+    position: relative;
+    color: #000000;
+    transition: all 0.5s ease-out;
+}
+.kinfw-admin-wrap .nav-tab-wrapper .nav-tab:hover, .kinfw-admin-wrap .nav-tab-wrapper .nav-tab.nav-tab-active {
+    color: #33b46a;
+}
+.kinfw-admin-wrap .nav-tab-wrapper .nav-tab:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 3px;
+    background: #33b46a;
+    left: 0;
+    right: 0;
+    margin: auto;
+    bottom: -1px;
+    transition: all 0.5s ease-out;
+}
+.kinfw-admin-wrap .nav-tab-wrapper .nav-tab.nav-tab-active:before, .kinfw-admin-wrap .nav-tab-wrapper .nav-tab:hover:before {
+    width: 100%;
+}
+.kinfw-admin-content-wrap {
+    font-size: 16px;
+    max-width: 1200px;
+    margin: 40px auto 0;
+}
+.kinfw-admin-content-wrap p {
+    font-size: 16px;
+}
+.kinfw-admin-welcome-screen-wrap .kinfw-admin-content-wrap > p:first-child {
+    margin-bottom: 25px;
+}
+.kinfw-admin-content-wrap .kinfw-admin-profile-img {
+    float: left;
+    margin: 0 30px 30px 0;
+}
+.kinfw-admin-content-wrap .kinfw-admin-profile-img img {
+    border-radius: 20px;
+}
+.kinfw-admin-content-wrap img {
+    max-width: 100%;
+}
+
+.kinfw-admin-content-wrap .theme-browser .theme .theme-screenshot {
+    text-align: center;
+}
+.kinfw-admin-content-wrap .theme-browser .theme .theme-screenshot img {
+    width: auto;
+    margin: auto;
+    right: 0;
+    bottom: 0;
+}
+
+.kinfw-admin-sys-info-screen-wrap .kinfw-admin-content-wrap table.widefat {
+    padding: 20px;
+    border: 0;
+    box-shadow: 0 10px 20px rgba(0,0,0,.07);
+}
+.kinfw-admin-sys-info-screen-wrap .kinfw-admin-content-wrap table.widefat td {
+    font-size: 16px;    
+}
+.kinfw-admin-sys-info-screen-wrap .kinfw-admin-content-wrap hr {
+    margin: 30px 0 40px;
+}
+
+/* Codestar Framework Customization */
+
+.csf-theme-dark .csf-header-inner, .csf-theme-dark .csf-footer {
+    background: #111217;
+}
+
+.csf-theme-dark .csf-nav-background {
+    background: #181920;
+}
+
+.csf-nav ul li a {
+    padding:16px 16px 16px 20px;
+    font-size: 14px;
+}
+.csf-nav ul ul li a {
+    padding:14px 14px 14px 30px;
+    font-size: 14px;
+}
+.csf-theme-dark .csf-nav ul li a {
+    background: #181920;
+    border-color: rgba(255,255,255,0.05);
+}
+.csf-theme-dark .csf-nav ul li .csf-active, .csf-theme-dark .csf-nav ul ul li .csf-active {
+    background: #33b46a;
+}
+.csf-theme-dark .csf-nav-normal ul li .csf-active:after {
+    border-width: 6px;
+}
+.csf-theme-dark .csf-nav ul ul li a {
+    background: #1b1b28;
+    border-color: rgba(255,255,255,0.05);
+}
+
+.csf-section[data-section-id="elementor/widgets"].hidden {
+    display: none;
+}
+.csf-section[data-section-id="elementor/widgets"] {
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+.csf-section[data-section-id="elementor/widgets"] .csf-field {
+    flex: 0 0 auto;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.csf-field-spinner .ui-spinner .ui-button {
+    height: auto;
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.kinfw-margin-left {
+    margin-left: 16px;
+}

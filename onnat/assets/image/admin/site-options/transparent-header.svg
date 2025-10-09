@@ -1,0 +1,81 @@
+<svg id="Standard-Header_copy_3" data-name="Standard-Header copy 3" xmlns="http://www.w3.org/2000/svg" width="700" height="100" viewBox="0 0 700 100">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke: #000;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 1px;
+      }
+
+      .cls-2 {
+        opacity: 0.07;
+      }
+
+      .cls-3 {
+        font-size: 12px;
+        text-anchor: middle;
+        font-family: "Open Sans";
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+
+      .cls-4 {
+        fill-opacity: 0;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="700" height="100"/>
+  <rect id="Rectangle_1_copy_2" data-name="Rectangle 1 copy 2" class="cls-2" width="700" height="100"/>
+  <text id="Logo" class="cls-3" x="69" y="55"><tspan x="69">Logo</tspan></text>
+  <g id="Menu">
+    <rect id="Rectangle_2_copy" data-name="Rectangle 2 copy" x="388" y="49" width="30" height="4"/>
+    <rect id="Rectangle_2_copy_2" data-name="Rectangle 2 copy 2" x="438" y="49" width="30" height="4"/>
+    <rect id="Rectangle_2_copy_3" data-name="Rectangle 2 copy 3" x="488" y="49" width="30" height="4"/>
+    <rect id="Rectangle_2_copy_4" data-name="Rectangle 2 copy 4" x="538" y="49" width="30" height="4"/>
+    <rect id="Rectangle_2_copy_5" data-name="Rectangle 2 copy 5" x="588" y="49" width="30" height="4"/>
+    <g id="Search_copy_2" data-name="Search copy 2">
+      <circle class="cls-4" cx="642" cy="49" r="4"/>
+      <path class="cls-5" d="M644.18,52.507l1.29-1.528,4.35,3.515-1.29,1.528Z"/>
+    </g>
+  </g>
+</svg>
